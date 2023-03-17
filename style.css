@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+
+    color: #fff;
+}
+
+.container {
+    max-width: 100%;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.img {
+    display: block;
+    width: 100%;
+    max-width: 600px;
+}
+
+.main {
+    margin: 100px;
+}
+
+.main__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.slider__photo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    margin: 20px;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
